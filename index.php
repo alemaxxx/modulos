@@ -23,6 +23,7 @@ include './config/config.php';
 include './config/conexao.php';
 
 print "entrou";
+
 ?>
 
 <section class="ftco-section">
