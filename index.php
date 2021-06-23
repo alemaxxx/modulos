@@ -22,9 +22,6 @@ include './config/DBsetup.php';
 include './config/config.php';
 include './config/conexao.php';
 
-print "entrou";
-
-print "linux";
 
 ?>
 
