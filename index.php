@@ -24,6 +24,8 @@ include './config/conexao.php';
 
 print "entrou";
 
+print "linux";
+
 ?>
 
 <section class="ftco-section">
