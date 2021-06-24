@@ -14,8 +14,7 @@ function Sair() {
             success: function (vsResult) {
                 
                 if (vsResult.RETORNO == true) {
-                    alert('saiu');
-
+                    
                     window.location.href = "index.php";
 
                 } else {
