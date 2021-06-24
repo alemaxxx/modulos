@@ -25,6 +25,8 @@ include './config/conexao.php';
 
 ?>
 
+
+<body class="img js-fullheight" style="background-image: url(images/bg.jpg);"></body>
 <section class="ftco-section">
     <div class="container">
         
